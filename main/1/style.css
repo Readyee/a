@@ -1,0 +1,36 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: rgb(78, 167, 239);
+}
+
+#need{
+width: 100%;
+
+   border: 2px black solid;
+   color: rgb(220, 218, 218);
+   font-size: 20px;
+}
+#apple{
+    color: rgb(0, 17, 252);
+    text-align: center;
+    border: 3px rgb(93, 0, 255) dotted;
+}
+#image{
+    text-align: center;
+    
+}
+#k{
+    border-left: 2px black dotted;
+}
+#need e{
+    color: rgb(0, 0, 0);
+}
+#back{
+    display:flex;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    color: white;
+}

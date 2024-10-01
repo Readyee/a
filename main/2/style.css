@@ -1,0 +1,39 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(78, 167, 239);
+}
+#head{
+    text-align: center;
+}
+#back{
+    display: flex;
+}
+#back a{
+    color: white;
+    list-style: none;
+    text-decoration: none;
+}
+#ingredent{
+    border: 5px rgb(0, 0, 0) solid;
+    text-align: center;
+    background-color:rgb(48, 137, 247) ;
+}
+
+#frosting{
+    border: 5px rgb(110, 15, 182) solid;
+    text-align: center;
+    background-color:rgb(48, 137, 247) ;
+}
+#makecake{
+    border: 5px rgb(77, 51, 173) solid;
+    text-align: center;
+    background-color:rgb(117, 82, 232) ;
+}
+#mfrosting{
+    border: 5px rgb(124, 66, 187) solid;
+    text-align: center;
+    background-color:rgb(145, 105, 247) ;
+}
+#last{
+    text-align: center;
+}

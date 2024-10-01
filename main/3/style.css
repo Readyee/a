@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(92, 166, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#head{
+    text-align: center;
+}
+#back{
+    display: flex;
+}
+#back a{
+    color: white;
+    list-style: none;
+}
+#need{
+    border: 6px solid rgb(150, 46, 255);
+    background-color: rgb(62, 184, 255);
+}
+#cooking{
+    border: 10px solid blueviolet;
+    background-color: rgb(84, 84, 255);
+}
